@@ -1,0 +1,23 @@
+.custom-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.mat-toolbar {
+  height: 40px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #003697;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
+}
+
+.mat-toolbar a{
+  color: white;
+}
